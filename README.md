@@ -1,2 +1,5 @@
-# Meta-programming-system-style
-Meta programming environment for HTML projects, server utilities, and experimental development tools.
+![Build](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)
+![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)
+![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)
